@@ -6,7 +6,7 @@
 🔧 Daily focus: Building scalable dashboards | Optimizing ETL pipelines | Streamlining data workflows\
 🌐 Experience: Cross-functional problem solving with diverse tech stacks\
 🚀 Passion: Taking solutions from concept to production at enterprise scale\
-🤝 Always eager to collaborate on impactful data projects\
+🤝 Always eager to collaborate on impactful data projects
 
 When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or designing data visualization that would make James Naismith proud.
 
@@ -21,7 +21,7 @@ When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or
 ![Google Apps Script](https://img.shields.io/badge/-Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-512BD4?style=flat&logo=visual-basic&logoColor=white)
 
-### DataViz
+### Data Visualization
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/-Power_Query-2BA5E0?style=flat&logo=power-bi&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
