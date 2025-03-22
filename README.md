@@ -1,7 +1,7 @@
-# Hi, <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> My name is Gustavo Alves
+# Hi, <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> my name is Gustavo
 
 
-
+## 👨💻 About Me | Data Playmaker
 📊 Business Intelligence Developer specializing in end-to-end data solutions\
 🔧 Daily focus: Building scalable dashboards | Optimizing ETL pipelines | Streamlining data workflows\
 🌐 Experience: Cross-functional problem solving with diverse tech stacks\
@@ -40,7 +40,7 @@ When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or
 <br />
 <br />
 
-# 📬 Find me at
+## 📬 Find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/iamgusttaa)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white&style=flat)](https://www.stackoverflow.com/users/10920136/gustavo-alves)
@@ -49,7 +49,7 @@ When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or
 
 <br />
 
-## 🏆 GitHub Trophies & Stats
+## 🏆 GitHub Activity
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=goose-rep&theme=nord&column=8)](https://github.com/=goose-rep/github-profile-trophy)
 
