@@ -1,4 +1,4 @@
-# Hi, <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> my name is Gustavo
+# Hi <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave"> I'm Gustavo
 
 
 ## 👨💻 About Me | Data Playmaker
@@ -8,14 +8,14 @@
 🚀 Passion: Taking solutions from concept to production at enterprise scale\
 🤝 Always eager to collaborate on impactful data projects\
 
-When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or designing dataViz that would make James Naismith proud.
+When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or designing data visualization that would make James Naismith proud.
 
 <br />
 
 ## ⚙️ Languages and Tools
 
 ### Programming Languages
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=amazon-dynamodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Google Apps Script](https://img.shields.io/badge/-Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
@@ -38,7 +38,6 @@ When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 <br />
-<br />
 
 ## 📬 Find me at
 
@@ -51,12 +50,12 @@ When I'm not wrangling data, you'll find me breaking ankles on the court 🏀 or
 
 ## 🏆 GitHub Activity
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=goose-rep&theme=nord&column=8)](https://github.com/=goose-rep/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=goose-rep&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br />
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=goose-rep&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goose-rep&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goose-rep&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goose-rep&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
